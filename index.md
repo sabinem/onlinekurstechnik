@@ -1,6 +1,6 @@
 ## Onlinekurstechnik
 Technik für Onlinekurse, Blog 2016
-- publiziert unter [https://sabinem.github.io/onlinekurstechnik/](https://sabinem.github.io/onlinekurstechnik/)
+- öffentlich zugänglich unter [https://sabinem.github.io/onlinekurstechnik/](https://sabinem.github.io/onlinekurstechnik/)
 ### Blog Posts
 
 - [25.4.2016 Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht](canvas_fuer_social_media_posts.md)
