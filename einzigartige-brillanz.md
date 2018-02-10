@@ -25,7 +25,7 @@ Shalias Schlüsselaussage ist, dass es möglich ist, einen Marketing Mix zu find
 Beflügelt von Shalia hatte ich sofort eine Idee für meinen eigenen Schwerpunkt in der Sichtbarkeit. Und dann war mir doch ein bisschen mulmig zumute, vor dem nächsten Termin mit meinem Sichtbarkeitscoach Natalie Schnack. Was würde Natalie dazu sagen? War nicht das nicht ein blamables Einknicken, schon so kurz nach dem Launch meines Blog, mein Konzept wieder umzustellen? Aber Natalie brachte das beste Argument überhaupt ins Spiel: Wir Solopreneure existieren nur durch uns selbst. Deshalb ist es unsere erste Pflicht, gut für uns selbst zu sorgen. Denn ohne uns gibt es unser Unternehmen ja gar nicht. Meine eigene Hauptarbeit ist das Programmieren. Und dafür brauche ich eine Menge Kraft. Sichtbarwerden ist gut, aber nach Wegen zu suchen, mit denen die Sichtbarkeit müheloser zu erreichen ist, ist eindeutig besser.
 
 ## Entdecke Deine einzigartige Brillanz
-Jetzt möchte ich Dir zeigen, wie Shalias Methode funktioniert, damit Du sie für Dich selbst anwenden kannst. Ich möchte Dir helfen, Deine einzigartige Brillanz zu entdecken und Deinen Online-Marketing-Mix so einzurichten, dass er Dich unterstützt, statt Dich zu belasten.
+**Jetzt möchte ich Dir zeigen, wie Shalias Methode funktioniert**, damit Du sie für Dich selbst anwenden kannst. Ich möchte Dir helfen, Deine einzigartige Brillanz zu entdecken und Deinen Online-Marketing-Mix so einzurichten, dass er Dich unterstützt, statt Dich zu belasten.
 
 ## Schritt 1: Kategorisiere Deine Kompetenzen
 Als Erstes analysierst Du Deine Online-Marketing-Optionen einmal anders. Du schreibst sie diesmal nicht in einer linearen Liste auf. Stattdessen sortierst Du sie in eine persönliche Matrix ein, die abbildet, in welchem Verhältnis sie zu Dir stehen.
@@ -39,3 +39,33 @@ Hier findest Du die einzelnen Felder mit den Namen, die Shalia ihnen gegeben hat
 - **Links unten: Kompetenz:** Diese Dinge strengen Dich an, ohne dass Du damit punkten kannst. Für mich fallen darunter etwa Social Media Posts. Ich bin einfach nicht gut drin, mit Facebook-Post Aufmerksamkeit zu erzielen und trotzdem kostet es mich sehr viel Mühe, einen Post für Facebook zu konzipieren. Ich komme mir für Facebook-Postings manchmal zu ernsthaft vor.
 - **Rechts oben: Das ist Deine Exzellenz:** Hier kannst Du punkten, aber es strengt Dich an. Deine Exzellenz sind Aktivitäten, für die Du oft Lob durch andere erhältst. Du weisst, dass Du das im Prinzip gut kannst, aber jedes Mal danach bist Du ausgelaugt. Mir geht das beim Blogschreiben so. Ich habe schnell den ersten Entwurf parat, aber die Feinarbeit bringt mich regelmässig an meine Grenzen.
 - **Links oben: Das ist jetzt Deine einzigartige Brillanz:** Dinge, bei denen Du mühelos glänzt. Bei Shalia sind das die Videos, die sie dreht. Für mich ist es das Helfen in Facebook-Gruppen. Nach einem einsamen Programmiertag entspannt es mich, im Internet technischen Fragen zu beantworten und mit Onlinekurs-Entwicklern ins Gespräch zu kommen.
+
+## Online-Marketing-Aktivitäten, die Du in die Waagschale werfen kannst
+Wahrscheinlich kennst Du längst alle Online-Marketing-Aktivitäten, um Deine eigene vier Quadranten zu füllen. Wenn nicht, bekommst Du hier noch eine Liste von mir an die Hand:
+
+- **Blog und Newsletter:** Wie bereits erwähnt, sind bloggen und ein Newsletter die Standardempfehlung.
+- **Webinare:** Webinare gelten ebenfalls als sehr gute Möglichkeit online auf Dich aufmerksam zu machen.
+- **Human Google:** Dabei geht es um das Heraussuchen interessanter Artikel für Deine Zielgruppe, die Du dann in den Sozialen Medien teilen kannst.
+- **Videos:** Videos kannst Du in Deinem Blog einbauen oder auf einem YouTube-Kanal veröffentlichen.
+- **Netzwerken:** Kontakte knüpfen und vertiefen kannst Du über die Social Media Kanäle oder über Xing. In Facebook-Gruppen hast Du eine besonders gute Möglichkeit mit Deiner Zielgruppe ins Gespräch zu kommen.
+
+## Schritt 2: Rücke Deine einzigartige Brillanz ins Zentrum Deiner Strategie
+Wenn Du Deine Quadranten ausgefüllt hast, beginnt die eigentliche Arbeit: Jetzt musst Du eine Strategie daraus zimmern.
+
+## Geh pragmatisch an Dein Online-Marketing heran
+Natürlich brauchst Du immer noch einen Mix von verschiedenen Massnahmen. Auch Shalia hat ihren Blog nicht aufgegeben. Sie bloggt vielleicht weniger regelmässig und fokussiert sich mehr auf das Video drehen. Sie hat ihre eigenen Strategie nicht im Detail erklärt. Ich weiss nur, dass Videos und Webinare zu ihren Schwerpunkten gehören. Webinare stehen bei ihr so sehr im Fokus, dass sie selbst ihren Onlinekurs durch Webinare entwickelt hat: Wenn Dich das interessiert, hör Dir das Interview an, das Marit Alke mit Shalia geführt hat.
+
+## Meine eigene Strategie
+Auch ich werde meinen Blog nicht aufgeben. Aber ich werde den Druck rausnehmen und mich stärker auf die Mitarbeit in den Facebook-Gruppen konzentrieren. Blog-Artikel in etwa 14-tägigem Abstand und den Newsletter gibt es in Zukunft ohne festen Termin. Der Kontakt zu meiner Zielgruppe und meinen Multiplikatoren geht für mich über Facebook. Meinen Blog sehe ich als Referenz für meine Arbeit. Blog-Artikel müssen sein. Aber beim nächsten Wochenendurlaub werde ich mir die Stadt ansehen. Wenn meine Software brennt, ist das etwas anderes, aber meine Sichtbarkeit darf nicht zum Hamsterrad  werden.
+
+## Anmerkung: Vergiss nie, Neues für Dich auszuprobieren
+Online-Marketing und auch diese Matrix sind ein Prozess. Alles was Du nicht kennst, wird Dir am Anfang hart erscheinen. Manches braucht eine Menge Übung, bevor man es für sich entdecken kann.
+
+## Jetzt wünsche ich Dir, dass Du Deinen eigenen Weg findest
+Shalias Botschaft bedeutet für mich: Versuche unverkrampft an die Sache mit Deiner Sichtbarkeit heran zugehen. Experimentiere und scheu Dich nicht Deinen Kurs zu korrigieren, wenn Du in etwas geschlittert bist, das nicht zu Dir passt. Wir Solopreneure, die Shalia übrigens zu Soulpreneuren umbenannt hat, müssen auf unsere „Soul“ achten und zwar auch beim Online-Marketing. Wir müssen uns auch, selbst bei Laune halten, um unser Tagesgeschäft gut erledigen zu können. In diesem Sinne wünsche ich Dir jetzt viel Entdeckerfreude.
+
+Kennst Du das Gelassenheitsgebet:
+
+>„Gott, gib mir die Gelassenheit, Dinge hinzunehmen, die ich nicht ändern kann, 
+den Mut, Dinge zu ändern, die ich ändern kann, 
+und die Weisheit, das eine vom anderen zu unterscheiden.“
