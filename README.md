@@ -1,3 +1,4 @@
 # Onlinekurstechnik
 
-Ich habe dort einen Blog aufgebaut und möchte mir die Artikel von dort noch eine Zeitlang aufheben.
+- Blogartikel 2016 zum Thema Technik für Onlinekurse
+- öffentlich zugänglich unter [https://sabinem.github.io/onlinekurstechnik/](https://sabinem.github.io/onlinekurstechnik/)
