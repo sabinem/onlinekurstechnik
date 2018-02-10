@@ -37,15 +37,16 @@ Kennst Du das die Angst vor dem weissen Blatt. Niemand von uns fängt gerne bei 
 Sieh Dir das Video an und schreibe mir, wenn Du Fragen hast:
 
 [18:50 Minuten]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_aZavVluDwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Fazit
+## Fazit
 Canva ist ganz sicher eine gute Hilfe, wenn man es so nutzt, dass man sich damit eigene Vorlagen erstellt: Sinnvoll etwa ist eine Vorlage für Zitate und eine für die Fragen nach Alternativen.
 
 Der Ansatz immer mit fertigen Elementen zu arbeiten, ist im Prinzip nett, aber wird von Canva etwas auf die Spitze getrieben. Etwa bei den Textelementen kann das regelrecht nerven, wenn man immer nur Texte verändern aber nicht neu schreiben kann.
 
 Dass Canva Geld verdienen will, schimmert überall durch. So kann man zwar nach gratis Fotos und Elementen suchen, aber zum Beispiel nicht nach „free tree“.  Des Preises wegen würde ich Dir raten, so viel als möglich eigene Fotos für Deine Bilder zu verwenden.
 
-### Nachwort
+## Nachwort
 Vielleicht bist Du neugierig auf die Ratschläge von Guy Kawasaki und seine Social-Media-Strategie geworden. Bei Gelegenheit werde ich vielleicht einen extra Blog-Artikel dazu schreiben. Ich will Dir nur so viel verraten: Dein Blog ist das Zentrum, Dein Grundstück und Dein Gesicht im Internet. Liefere gute Inhalte und verteile sie über die Social-Media-Kanäle. Habe Vertrauen zu Dir und versuche Spass an der Sache zu behalten. Zweifle nicht an Dir und denk dran: Hartnäckigkeit ist die halbe Miete.
 
 Jetzt freue ich mich auf Deine Fragen und Kommentare.
