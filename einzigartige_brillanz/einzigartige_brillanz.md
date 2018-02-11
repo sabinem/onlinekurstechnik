@@ -1,27 +1,33 @@
+![Diamant](diamand.jpg)
 # Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz
 (9. Mai 2016)
 
 Wenn Du mit Deinem Coaching-Angebot online gehst, liegt das Online-Marketing oft wie ein grosser Berg vor Dir. Du hast Mühe, den Einstieg zu finden. Du stehst am Fusse des Berges und siehst sehnsüchtig auf alle, die vermeintlich schon oben sind. In Ermangelung eigener Erfahrungen hältst Du Dich an bewährte Rezepte. Oft startest Du erst mal auf der Standard-Route von Blog und Newsletters. Und dann kommt der Punkt an dem Dir dieser Weg, den Du da gehst, unglaublich steil erscheint. Du fragst Dich, wie machen das die Profis? Wie schaffen sie es, so entspannt online rüber zu kommen? In diesem Artikel helfe ich Dir, Deinen eigenen Weg in eine entspannte Online-Sichtbarkeit zu entdecken. 
 
+## Inhalt
+- [Mein eigener Weg in die Online-Sichtbarkeit](mein-eigener-weg-in-die-online-sichtbarkeit)
+- [Entdecke Deine einzigartige Brillanz](entdecke-deine-einzigartige-brillanz)
+- [Jetzt wünsche ich Dir, dass Du Deinen eigenen Weg findest](jetzt-wünsche-ich-dir-dass-du-deinen-eigenen-weg-findest)
+
 ## Mein eigener Weg in die Online-Sichtbarkeit
 Ich habe bereits in einem anderen Artikel erzählt, wie ich das E-Mail-Markting für mich entdeckt habe: Launch oder warum Du eine Email-Liste für Deinen Online-Kurs brauchst. Es ist ein hervorragendes Konzept und wird heute im Internet vielfach kopiert und empfohlen. In der Kurzform geht es darum, einen Blog zu erstellen und über ein Newsletter-Angebot E-Mail-Kontakte Deiner Zielgruppe einzusammeln. Über diesen Newsletter kannst Du dann später auch Deine Angebot direkt an Deine Zielgruppe versenden.
 
-## Entdeckt und umgesetzt
+### Entdeckt und umgesetzt
 Begeistert habe ich mich mit Elan in die Sache gestürzt: mein Webseite war mit WordPress in Windeseile erstellt, auch die Installation meines Newsletters mit mailchimp verlief reibungslos. Und dann fing das Bloggen an: Ein Artikel pro Woche mit einem festen Erscheinungstag schien mir richtig zu sein. Ich habe auch schon einige Abonnenten für meinen Newsletter gewinnen können. Das Ganze hat mich viel Kraft gekostet, aber bekanntlich ist ja aller Anfang schwer.
 
-## Ein selbst geschaffenes Hamsterrad?
+### Ein selbst geschaffenes Hamsterrad?
 Zurück in Zürich war ich recht deprimiert. Was war da eigentlich mit mir geschehen? Zugegeben, ich hatte den Artikel vor mir hergeschoben, aber schliesslich ist meine Hauptarbeit das Programmieren. Das Programmieren bringt mich voran. Ohne mein Softwareprodukt brauche ich gar keine Online-Sichtbarkeit. Mein Blog dagegen ist nicht einmal eine Leistung, für die ich bezahlt werde. Ich weiss nicht, wie viele Leute wirklich meinen Newsletter  lesen oder wie wichtig er für sie ist. Ich fragte mich plötzlich, in was ich da hineingeraten war: ein selbst geschaffenes Hamsterrad?
 
-## Christina Emmers Sichtbarkeits-Challenge
+### Christina Emmers Sichtbarkeits-Challenge
 Ich war schon länger als passive Teilnehmerin bei [Christina Emmers](http://christinaemmer.de/) Sichtbarkeits-Challenge mit dabei. Es handelt sich um ein Anschub-Event, bei dem Experten den Teilnehmenden helfen, mit ihrem Online-Marketing durchzustarten. Vor Berlin habe ich das Ganze gelassen verfolgt, da ich selbst ja überzeugt war, bereits ein Konzept zu haben. Aber jetzt plötzlich war ich unsicher geworden. Ich fühlte mich gestresst und wollte wissen, wie andere das machen. Bloggten sie einfach so aus der lockeren Hand heraus oder gab es auch bei ihnen solche Frustrationen hinter den Kulissen?
 
-## Der Wendepunkt kam durch Shalia Stevens
+### Der Wendepunkt kam durch Shalia Stevens
 Bei der 21-Tage-Sichtbarkeits-Challenge war es nach meinem Urlaub bereits der 17. Tag. Diesmal ging es ums Videodrehen und der Beitrag stammte von [Shalia Stevens](http://www.shailiastephens.com/), einer Online-Marketing-Expertin mit einem sympathischen amerikanischen Akzent. Sie berichtete in ihrem Beitrag von ihren eigenen Erfahrungen. Auch sie hatte ganz traditionell mit dem Bloggen gestartet, bis ihr schliesslich Zweifel kamen, weil es so hart für sie war. Heute hat sie einen breit gefächerten Mix im Programm und konzentriert sich vor allem auf Webinare und aufs Videodrehen. Sie ermutigte auch uns, unseren einen eigenen Weg im Online-Marketing zu finden. Rezepte sollten wir als Ausgangspunkt betrachten, nicht als starres Korsett. **Das Ziel sei einen Online-Marketing-Mix zu finden, der zu uns passt.** 
 
-## Online-Marketing, das auftankt, statt zu erschöpfen
+### Online-Marketing, das auftankt, statt zu erschöpfen
 Shalias Schlüsselaussage ist, dass es möglich ist, einen Marketing Mix zu finden, der Kraft spendet, statt Kraft zu entziehen. Und Shalias Videos sprechen für sich. Sie wirkt so locker und entspannt darin. Man nimmt man ihr ab, dass sie danach noch Berge versetzen kann. In ihrem Beitrag hat sie uns eine Methode an die Hand gegeben, wie wir selbst im Online-Marketing diesen Bereich der mühelosen Sichtbarkeit für uns entdecken können. Shalia nennt ihn unsere „einzigartige Brillanz“.
 
-## Natalie Schnacks bestes Argument
+### Natalie Schnacks bestes Argument
 Beflügelt von Shalia hatte ich sofort eine Idee für meinen eigenen Schwerpunkt in der Sichtbarkeit. Und dann war mir doch ein bisschen mulmig zumute, vor dem nächsten Termin mit meinem Sichtbarkeitscoach [Natalie Schnack](https://www.natalieschnack.de/). Was würde Natalie dazu sagen? War nicht das nicht ein blamables Einknicken, schon so kurz nach dem Launch meines Blog, mein Konzept wieder umzustellen? Aber Natalie brachte das beste Argument überhaupt ins Spiel: **Wir Solopreneure existieren nur durch uns selbst. Deshalb ist es unsere erste Pflicht, gut für uns selbst zu sorgen.** Denn ohne uns gibt es unser Unternehmen ja gar nicht. Meine eigene Hauptarbeit ist das Programmieren. Und dafür brauche ich eine Menge Kraft. Sichtbarwerden ist gut, aber nach Wegen zu suchen, mit denen die Sichtbarkeit müheloser zu erreichen ist, ist eindeutig besser.
 
 ## Entdecke Deine einzigartige Brillanz
