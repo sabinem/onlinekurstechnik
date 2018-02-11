@@ -6,7 +6,7 @@ Die Blog Artikel richten sich an die Entwickler von Online Kursen. Die Idee hint
 # Liste der Blog-Artikel nach Erscheinungsdatum
 Liste der Blogposts in der Reihenfolge ihres Erscheinens
 
-- 09.05.2016  : [Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz](einzigartige_brillanz.md)
+- 09.05.2016  : [Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz](einzigartige_brillanz/einzigartige_brillanz.md)
 - 01.05.2016  : [Der Umgang mit entmutigenden Gedanken – speziell für Onlinekurs-Entwickler](entmutigende_gedanken/entmutigende_gedanken.md)
 01.05.2016
 - 25.04.2016 : [Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht](canva/canva.md)
