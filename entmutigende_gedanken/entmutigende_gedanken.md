@@ -4,7 +4,6 @@
 
 Online Kurse sind streckenweise eine einsame Sache mit viel intensiver Vorlaufzeit. Du investierst heftig, bevor Du ernten kannst. Das gleiche gilt für das Sichtbarwerden im Internet. Es wird immer wieder Punkte geben, an denen Du scheinbar nicht weiter kommst, an denen Du zweifelst, ob Du den richtigen Weg eingeschlagen hast. Ich will Dir heute Werkzeuge an die Hand geben, wie Du mit solchen Selbstzweifeln umgehen kannst. Interessiert? Dann freue ich mich, wenn Du weiter liest.
 
-## Table of Contents
    - [Der Auslöser für diesen Artikel](#der-auslöser-für-diesen-artikel)
    - [Mentale Herausforderung des Online-Gangs](#mentale-herausforderung-des-online-gangs)
 
