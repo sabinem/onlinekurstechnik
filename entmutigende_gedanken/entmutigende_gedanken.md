@@ -1,9 +1,14 @@
 # Der Umgang mit entmutigenden Gedanken – speziell für Onlinekurs-Entwickler
 01.05.2016
 
+![cut out bad_feelings](bad_feelings.jpg)
+
 Online Kurse sind streckenweise eine einsame Sache mit viel intensiver Vorlaufzeit. Du investierst heftig, bevor Du ernten kannst. Das gleiche gilt für das Sichtbarwerden im Internet. Es wird immer wieder Punkte geben, an denen Du scheinbar nicht weiter kommst, an denen Du zweifelst, ob Du den richtigen Weg eingeschlagen hast. Ich will Dir heute Werkzeuge an die Hand geben, wie Du mit solchen Selbstzweifeln umgehen kannst. Interessiert? Dann freue ich mich, wenn Du weiter liest.
 
-![cut out bad_feelings](bad_feelings.jpg)
+## Table of Contents
+  * [Der Umgang mit entmutigenden Gedanken – speziell für Onlinekurs-Entwickler](Der-Umgang-mit-entmutigenden-Gedanken-–- speziell-für-Onlinekurs-Entwickler)
+    * [Viel Mut für Dich!](#viel-mut-fuer-dich)
+    * [Was genau erfordert online so viel Mut?](#was-genau-erfordert-online-soviel-mut)
 
 ## Der Auslöser für diesen Artikel
 Gerade nehme ich an einer Sichtbarkeits-Challenge von Christina Emmer teil. Es geht um Coaches, wie Dich, die mit ihrer Präsenz im Internet durchstarten wollen. Eine Challenge ist eine geführte Gruppen-Aktion, bei der eine Gruppe Gleichgesinnter gemeinsam aufbricht, um unter Anleitung etwas Neues zu wagen. In diesem speziellen Fall geht es um die Online-Sichtbarkeit.
