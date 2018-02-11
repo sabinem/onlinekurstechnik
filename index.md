@@ -10,4 +10,4 @@ Liste der Blogposts in der Reihenfolge ihres Erscheinens
 - 01.05.2016  : [Der Umgang mit entmutigenden Gedanken – speziell für Onlinekurs-Entwickler](entmutigende_gedanken/entmutigende_gedanken.md)
 01.05.2016
 - 25.04.2016 : [Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht](canva/canva.md)
-
+- 17.04.2016 : [Ist ein schlechter Präsenztrainer auch ein schlechter Online-Trainer?](online-vs-praesenz-trainer/online-vs-praesenz-trainer.md)
