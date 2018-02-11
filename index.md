@@ -7,7 +7,7 @@ Table of Contents
 
   * [Onlinekurstechnik](#onlinekurstechnik)
     * [Aktuell](#aktuell)
-    * [Blog Posts](#blog_posts)
+    * [Blog Posts](#blog-posts)
 
 ### Aktuell
 Der Blog wird nicht mehr weitergeführt, ich halte die Artikel trotzdem weiterhin zugänglich.
