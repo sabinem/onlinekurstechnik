@@ -1,24 +1,15 @@
-# Hallo
+## Onlinekurstechnik
 
+Hier sammle ich die Blog Artikel von einer Seite über "Onlinekurs Technik", die ich in 2016 inne hatte.
 
-## Onlinekurstechnik für viele ein Muss
-- Technik für Onlinekurse
-- Blogartikel von 2016
-
-## Table of Contents
- * [Hallo](#hallo)
-  * [Onlinekurstechnik](#onlinekurstechnik)
-   * [Aktuell](#aktuell)
-   * [Blog Posts](#blog-posts)
-
-### Aktuell
-Der Blog wird nicht mehr weitergeführt, ich halte die Artikel trotzdem weiterhin zugänglich.
+### Blog Thema
+Die Blog Artikel richten sich an die Entwickler von Online Kursen. Die Idee hinter dem Blog war eine Onlinekursplattform aufzubauen. Ich habe mich dann allerdings doch gegen den Aufbau so einer Plattform entschieden und deshalb den Blog nicht weitergeführt. Die Artikel hebe ich mir als Beispiele auf, falls ich je wieder ans Bloggen denken sollte.
 
 ### Blog Posts
-In der Reihenfolge ihres Erscheinens: neueste oben!
+Liste der Blogposts in der Reihenfolge ihres Erscheinens
 
 - 09.05.2016  : [Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz](einzigartige_brillanz.md)
 - 01.05.2016  : [Der Umgang mit entmutigenden Gedanken – speziell für Onlinekurs-Entwickler](entmutigende_gedanken/entmutigende_gedanken.md)
 01.05.2016
-- 25.04.2016 : [Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht](canvas_fuer_social_media_posts.md)
+- 25.04.2016 : [Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht](canva/canva.md)
 
