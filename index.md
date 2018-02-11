@@ -2,9 +2,7 @@
 - Technik für Onlinekurse
 - Blogartikel von 2016
 
-Table of Contents
------------------
-
+## Table of Contents
   * [Onlinekurstechnik](#onlinekurstechnik)
     * [Aktuell](#aktuell)
     * [Blog Posts](#blog-posts)
