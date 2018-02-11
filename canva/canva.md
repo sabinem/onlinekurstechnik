@@ -1,4 +1,4 @@
-![canva auf dem Schreibtisch](canva.jpg
+![canva auf dem Schreibtisch](canva.jpg)
 # Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht
 Wie steht es mit Deiner Social-Media-Strategie? Jonglierst Du schon mit perfekt aussehenden Facebook-Posts in Deiner Timeline? Tragen Deine Posts Dein eigenes Branding? Wenn nicht, dann ist Canva vielleicht etwas für Dich. In diesem Artikel erhältst Du ein Tutorial zum Durchstarten mit Canva und ich erzähle Dir von meinen eigenen Erfahrungen damit.
 
