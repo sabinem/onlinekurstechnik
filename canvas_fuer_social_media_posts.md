@@ -1,5 +1,13 @@
 # Canva für Deine Social-Media-Posts – Tutorial und Erfahrungsbericht
 Wie steht es mit Deiner Social-Media-Strategie? Jonglierst Du schon mit perfekt aussehenden Facebook-Posts in Deiner Timeline? Tragen Deine Posts Dein eigenes Branding? Wenn nicht, dann ist Canva vielleicht etwas für Dich. In diesem Artikel erhältst Du ein Tutorial zum Durchstarten mit Canva und ich erzähle Dir von meinen eigenen Erfahrungen damit.
+
+## Inhalt
+ - [Vorgeschichte](#vorgeschichte)
+ - [Was ist Canva?](#was-ist-canva)
+ - [Das Canva-Tutorial](#das-canva-tutorial)
+ - [Fazit](#fazit)
+ - [Nachwort](#nachwort)
+
 ## Vorgeschichte
 ### Die Geschichte beginnt an einem Donnerstag
 Donnerstag ist mein Blogschreibe-Tag. Am Donnerstag stecke den Kopf aus meinen Programmierbüchern heraus, ich tauche aus meinen Code-Tiefen an die Oberfläche von Blog, Sichtbarkeit und Social Media auf. Dann überlege ich, welches Thema bei Online-Kursbauern wie Dir, gerade angesagt sein könnte. Und zurzeit denke ich dann auch noch über meine eigenen Probleme mit dem Sichtbar-Werden im Internet nach.
