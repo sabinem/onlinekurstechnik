@@ -1,7 +1,7 @@
 # Hallo
 
 
-## Onlinekurstechnik
+## Onlinekurstechnik für viele ein Muss
 - Technik für Onlinekurse
 - Blogartikel von 2016
 
