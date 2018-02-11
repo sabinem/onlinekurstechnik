@@ -1,4 +1,4 @@
-![Diamant](diamand.jpg)
+![Diamant](diamant.jpg)
 # Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz
 (9. Mai 2016)
 
