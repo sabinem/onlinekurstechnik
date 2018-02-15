@@ -1,4 +1,3 @@
-![Diamant](diamant.jpg)
 # Stimmt Dein Online-Marketing-Mix für Dich? – Finde Deine einzigartige Brillanz
 (9. Mai 2016)
 
@@ -8,6 +7,8 @@ Wenn Du mit Deinem Coaching-Angebot online gehst, liegt das Online-Marketing oft
  - [Mein eigener Weg in die Online-Sichtbarkeit](#mein-eigener-weg-in-die-online-sichtbarkeit)
  - [Entdecke Deine einzigartige Brillanz](#entdecke-deine-einzigartige-brillanz)
  - [Jetzt wünsche ich Dir, dass Du Deinen eigenen Weg findest](#jetzt-wünsche-ich-dir-dass-du-deinen-eigenen-weg-findest)
+ 
+![Diamant](diamant.jpg)
 
 ## Mein eigener Weg in die Online-Sichtbarkeit
 Ich habe bereits in einem anderen Artikel erzählt, wie ich das E-Mail-Markting für mich entdeckt habe: Launch oder warum Du eine Email-Liste für Deinen Online-Kurs brauchst. Es ist ein hervorragendes Konzept und wird heute im Internet vielfach kopiert und empfohlen. In der Kurzform geht es darum, einen Blog zu erstellen und über ein Newsletter-Angebot E-Mail-Kontakte Deiner Zielgruppe einzusammeln. Über diesen Newsletter kannst Du dann später auch Deine Angebot direkt an Deine Zielgruppe versenden.
