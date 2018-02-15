@@ -1,17 +1,8 @@
-![Online versus Präsenztrainer](online-versus-praesenztrainer.jpg)
 # Ist ein schlechter Präsenztrainer auch ein schlechter Online-Trainer?
 
 Hast Du Dir diese Frage schon mal so gestellt? Vermutlich stellst Du sie Dir in leicht anderer Form: was passt besser zu mir, wo bringe ich meine Schüler wirksamer voran: in einem Präsenz-Seminar oder in einem Online-Kurs? In diesem Artikel erfährst Du, warum Trainer zu der einen oder der anderen Sorte von Unterricht tendieren und wie diese Neigung oft eine Frage der Persönlichkeit ist. Darüber hinaus beantworte ich Dir die im Titel gestellte Frage zuerst theoretisch und anschliessend gibt es praktische Beispiele dazu. Neugierig? Dann freue ich mich, wenn Du in meinen Artikel hinein liest.
 
-## Inhalt
-- [Wer hat diese Frage gestellt?](#wer-hat-diese-frage-gestellt)
-- [Intuition](#intuition)
-- [These](#these)
-- [Beweis](#beweis)
-- [Und jetzt zu Dir](#und-jetzt-zu-dir)
-- [Danksagung](#danksagung)
-- [Blogparade](#blogparade)
-
+![Online versus Präsenztrainer](online-versus-praesenztrainer.jpg)
 
 ## Wer hat diese Frage gestellt?
 Bei der Frage handelt es sich um die Aufgabenstellung einer Blogparade von Anja Röck, einer Expertin fürs E-Learning, die seit 2015 jährlich den e-Trainer-Kongress ausgerichtet.
@@ -106,7 +97,7 @@ Aber letztlich sind die Präferenzen individuell. Jeder muss für sich selbst he
 ### Auch Online-Untericht ist vielfältig
 Man sollte nicht vergessen, dass auch Online-Unterricht viele Spielarten hat. Hybriden Unterricht, eine Mischform zwischen Online- und Seminarunterricht, habe ich bisher noch gar nicht erwähnt. Und Webinare teilen das synchrone Element mit dem Präsenzunterricht.
 
-### Fazit
+## Fazit
 Ich zitiere hier im Schlusssatz mal Natalie Schnack:
 
 „Es geht .. hier nicht darum was im Einzelfalle … gefällt oder nicht. Es geht darum, was dauerhaft der eigenen Persönlichkeitsstruktur nahe ist …“
