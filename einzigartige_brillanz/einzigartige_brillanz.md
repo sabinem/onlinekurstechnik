@@ -33,10 +33,10 @@ Beflügelt von Shalia hatte ich sofort eine Idee für meinen eigenen Schwerpunkt
 ## Entdecke Deine einzigartige Brillanz
 **Jetzt möchte ich Dir zeigen, wie Shalias Methode funktioniert**, damit Du sie für Dich selbst anwenden kannst. Ich möchte Dir helfen, Deine einzigartige Brillanz zu entdecken und Deinen Online-Marketing-Mix so einzurichten, dass er Dich unterstützt, statt Dich zu belasten.
 
-## Schritt 1: Kategorisiere Deine Kompetenzen
+### Schritt 1: Kategorisiere Deine Kompetenzen
 Als Erstes analysierst Du Deine Online-Marketing-Optionen einmal anders. Du schreibst sie diesmal nicht in einer linearen Liste auf. Stattdessen sortierst Du sie in eine persönliche Matrix ein, die abbildet, in welchem Verhältnis sie zu Dir stehen.
 
-## Die vier Quadranten
+### Die vier Quadranten
 Deine Matrix besteht aus 4 Quadranten: Stell Dir dazu ein Raster vor, bei dem die eine Achse Deine Mühe ist, während die andere Achse Deine Wirkung misst. In der oberen Reihe stehen also die Aktivitäten, bei denen Du wirklich gut sein kannst. Die rechte Spalte enthält, was Dich anstrengt. Es liegt dann auf der Hand, dass das Feld oben links besonders gut für Dich ist: Das sind die Online-Marketing-Aktivitäten, bei denen Du mühelos punkten kannst.
 
 Hier findest Du die einzelnen Felder mit den Namen, die Shalia ihnen gegeben hat:
@@ -55,16 +55,16 @@ Wahrscheinlich kennst Du längst alle Online-Marketing-Aktivitäten, um Deine ei
 - **Videos:** Videos kannst Du in Deinem Blog einbauen oder auf einem YouTube-Kanal veröffentlichen.
 - **Netzwerken:** Kontakte knüpfen und vertiefen kannst Du über die Social Media Kanäle oder über Xing. In Facebook-Gruppen hast Du eine besonders gute Möglichkeit mit Deiner Zielgruppe ins Gespräch zu kommen.
 
-## Schritt 2: Rücke Deine einzigartige Brillanz ins Zentrum Deiner Strategie
+### Schritt 2: Rücke Deine einzigartige Brillanz ins Zentrum Deiner Strategie
 Wenn Du Deine Quadranten ausgefüllt hast, beginnt die eigentliche Arbeit: Jetzt musst Du eine Strategie daraus zimmern.
 
-## Geh pragmatisch an Dein Online-Marketing heran
+### Geh pragmatisch an Dein Online-Marketing heran
 Natürlich brauchst Du immer noch einen Mix von verschiedenen Massnahmen. Auch Shalia hat ihren Blog nicht aufgegeben. Sie bloggt vielleicht weniger regelmässig und fokussiert sich mehr auf das Video drehen. Sie hat ihre eigenen Strategie nicht im Detail erklärt. Ich weiss nur, dass Videos und Webinare zu ihren Schwerpunkten gehören. Webinare stehen bei ihr so sehr im Fokus, dass sie selbst ihren Onlinekurs durch Webinare entwickelt hat: Wenn Dich das interessiert, hör Dir das [Interview](https://www.marit-alke.de/mit-hilfe-von-kostenlosen-webinaren-inhalte-fuer-kurs-interview-shailia-stephens/#more-4352) an, das Marit Alke mit Shalia geführt hat.
 
-## Meine eigene Strategie
+### Meine eigene Strategie
 Auch ich werde meinen Blog nicht aufgeben. Aber ich werde den Druck rausnehmen und mich stärker auf die Mitarbeit in den Facebook-Gruppen konzentrieren. Blog-Artikel in etwa 14-tägigem Abstand und den Newsletter gibt es in Zukunft ohne festen Termin. Der Kontakt zu meiner Zielgruppe und meinen Multiplikatoren geht für mich über Facebook. Meinen Blog sehe ich als Referenz für meine Arbeit. Blog-Artikel müssen sein. Aber beim nächsten Wochenendurlaub werde ich mir die Stadt ansehen. Wenn meine Software brennt, ist das etwas anderes, aber meine Sichtbarkeit darf nicht zum Hamsterrad  werden.
 
-## Anmerkung: Vergiss nie, Neues für Dich auszuprobieren
+### Anmerkung: Vergiss nie, Neues für Dich auszuprobieren
 Online-Marketing und auch diese Matrix sind ein Prozess. Alles was Du nicht kennst, wird Dir am Anfang hart erscheinen. Manches braucht eine Menge Übung, bevor man es für sich entdecken kann.
 
 ## Jetzt wünsche ich Dir, dass Du Deinen eigenen Weg findest
