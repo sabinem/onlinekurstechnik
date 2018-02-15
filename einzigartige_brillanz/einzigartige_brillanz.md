@@ -42,7 +42,7 @@ Hier findest Du die einzelnen Felder mit den Namen, die Shalia ihnen gegeben hat
 - **Rechts oben: Das ist Deine Exzellenz:** Hier kannst Du punkten, aber es strengt Dich an. Deine Exzellenz sind Aktivitäten, für die Du oft Lob durch andere erhältst. Du weisst, dass Du das im Prinzip gut kannst, aber jedes Mal danach bist Du ausgelaugt. Mir geht das beim Blogschreiben so. Ich habe schnell den ersten Entwurf parat, aber die Feinarbeit bringt mich regelmässig an meine Grenzen.
 - **Links oben: Das ist jetzt Deine einzigartige Brillanz:** Dinge, bei denen Du mühelos glänzt. Bei Shalia sind das die Videos, die sie dreht. Für mich ist es das Helfen in Facebook-Gruppen. Nach einem einsamen Programmiertag entspannt es mich, im Internet technischen Fragen zu beantworten und mit Onlinekurs-Entwicklern ins Gespräch zu kommen.
 
-## Online-Marketing-Aktivitäten, die Du in die Waagschale werfen kannst
+### Online-Marketing-Aktivitäten, die Du in die Waagschale werfen kannst
 Wahrscheinlich kennst Du längst alle Online-Marketing-Aktivitäten, um Deine eigene vier Quadranten zu füllen. Wenn nicht, bekommst Du hier noch eine Liste von mir an die Hand:
 
 - **Blog und Newsletter:** Wie bereits erwähnt, sind bloggen und ein Newsletter die Standardempfehlung.
