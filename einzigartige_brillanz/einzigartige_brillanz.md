@@ -2,11 +2,6 @@
 (9. Mai 2016)
 
 Wenn Du mit Deinem Coaching-Angebot online gehst, liegt das Online-Marketing oft wie ein grosser Berg vor Dir. Du hast Mühe, den Einstieg zu finden. Du stehst am Fusse des Berges und siehst sehnsüchtig auf alle, die vermeintlich schon oben sind. In Ermangelung eigener Erfahrungen hältst Du Dich an bewährte Rezepte. Oft startest Du erst mal auf der Standard-Route von Blog und Newsletters. Und dann kommt der Punkt an dem Dir dieser Weg, den Du da gehst, unglaublich steil erscheint. Du fragst Dich, wie machen das die Profis? Wie schaffen sie es, so entspannt online rüber zu kommen? In diesem Artikel helfe ich Dir, Deinen eigenen Weg in eine entspannte Online-Sichtbarkeit zu entdecken. 
-
-## Inhalt
- - [Mein eigener Weg in die Online-Sichtbarkeit](#mein-eigener-weg-in-die-online-sichtbarkeit)
- - [Entdecke Deine einzigartige Brillanz](#entdecke-deine-einzigartige-brillanz)
- - [Jetzt wünsche ich Dir, dass Du Deinen eigenen Weg findest](#jetzt-wünsche-ich-dir-dass-du-deinen-eigenen-weg-findest)
  
 ![Diamant](diamant.jpg)
 
